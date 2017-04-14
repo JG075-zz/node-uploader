@@ -1,14 +1,14 @@
 {
-  "name": "chapter-03",
-  "description": "Build a multimedia Application with Node.js",
+  "name": "node-uploader",
+  "description": "A multimedia uploader with Node.js",
   "license": "MIT",
   "author": {
-    "name": "Fernando Monteiro",
-    "url": "https://github.com/newaeonweb/node-6-blueprints"
+    "name": "James Gardiner",
+    "url": "https://github.com/JG075/node-uploader"
  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/newaeonweb/node-6-blueprints.git"
+    "url": "https://github.com/JG075/node-uploader.git"
   },
   "keywords": [
     "MVC",
@@ -44,4 +44,4 @@
   "devDependencies": {
     "nodemon": "^1.9.1"
   }
-} 
+}
